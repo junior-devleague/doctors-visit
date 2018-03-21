@@ -71,12 +71,15 @@ Here we used a hashtag/number sign to write a comment about what our program doe
 
 ## Your Challenge
 1. Create a new python document titled doctors-visit.py
-2. 
+2. At the top, write a few comments to describe what the program does to someone who might not know, Write your name, and the date
+3. Create a function called basic_info
+4. Create a variable called name and ask user for their name
+5. Create a variable called age and ask for their age
+6. Create a vairable called home_address and ask for their home address
+7. Create a variable 
 
 
 Stretch Goal
-Summary
-This is a beggining Python project students should do as one of the first few python projects
 
 
 
