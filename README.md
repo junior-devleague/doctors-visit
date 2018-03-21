@@ -76,7 +76,8 @@ Here we used a hashtag/number sign to write a comment about what our program doe
 4. Create a variable called name and ask user for their name
 5. Create a variable called age and ask for their age
 6. Create a vairable called home_address and ask for their home address
-7. Create a variable 
+7. Create a variable called reason for visit and set it equal to "I am sick"
+
 
 
 Stretch Goal
