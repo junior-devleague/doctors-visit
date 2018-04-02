@@ -35,6 +35,7 @@ For strings, it works like this:
 - hello = "Hi"
 - name = "Alice"
 - greeting = hello + " " + name
+
 greeting is now equal to "Hi Alice"
 For numbers, it works the same way as addition does in real life. In addition, you can do all the rest of your basic math using +, -, \*, and / to do addition, subtraction, multiplication, and division.
 
