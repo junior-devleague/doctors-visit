@@ -43,6 +43,7 @@ Now you can use the print function to print out the value stored in your variabl
 For example:
   - print(string_variable_name)
   - Alice
+  
 Combining strings, integers and floats:
   - So far we have only attempted to combine items that share a data type (ex: string + string, or integer + integer)
   - If we want to combine different data types we need to use Python's built in functions to define each of our data types.
@@ -61,10 +62,12 @@ Now that we know these, we can try to combining a string with an integer, or cre
 To add a string, and an integer, we do this:
 - integer = 5
 - string = " is a number"
+
 if we try combining the two right now, we'll get an error saying "unsupported operand type(s) for +: 'int' and 'str'". Confusing, right? However, that error's just saying that you can't combine an integer and a string. If we do:
 - integer = 5
 - string_of_integer = str(integer)
 - string = " is a number"
+
 we can combine string_of_integer and string successfully.
 
 To create a function to add numbers, we need to define it, and put some code that will run in it, like this:
