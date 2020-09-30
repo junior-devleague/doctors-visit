@@ -1,4 +1,4 @@
-# doctors-visit
+# Doctors-visit
 [Beginner] Basic intro python project going over variables, strings, integers, and functions
 
 You are helping out at your Aunt Rita's doctor's office for the summer and she's having a hard time keeping track of patients' symptoms. Help her by creating a form for her patients to fill out so that she can help them get better!
